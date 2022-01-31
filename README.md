@@ -25,12 +25,12 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Navigation 4](https://velog.io/@emily2307/Unit-3-Navigation-4) ] - NavGraph / Navigation / FragmentContainerView / 앱 바 label / Navigation pieces
 - [x] [ [Navigation 5](https://velog.io/@emily2307/Unit3-Navigation-5) ] - "Unscamble App" / 앱 아키텍처 / ViewModel / Backing property / ViewModel lifecycle / MaterialAlertDialog
 - [x] [ [Navigation 6](https://velog.io/@emily2307/Unit-3-Navigation-6) ] - LiveData / Data binding / 결합 표현식
-- Navigation 7 - 공유 ViewModel / LifecycleOwner / Back Stack
+- [x] [ [Navigation 7](https://velog.io/@emily2307/Unit-3-Navigation-7) ] - "Cupcake App" / 공유 ViewModel / LiveData & LifecycleOwner / Back Stack / Pop behavior
 
 ## Unit 4: Connect to the Internet
-- Internet 1 - 멀티스레딩 / Coroutine
-- Internet 2 - Retrofit / viewModelScope / Moshi 라이브러리
-- Internet 3 - Coil 라이브러리 / Binding Adapter
+- [x] [ [Internet 1](https://velog.io/@emily2307/Unit-4-Connect-to-the-internet-1) ] - 멀티스레딩 / Coroutine
+- [x] [ [Internet 2](https://velog.io/@emily2307/Unit-4-Internet-2) ] - "Mars Photos App" / Retrofit / viewModelScope / Moshi 라이브러리
+- [x] [ [Internet 3](https://velog.io/@emily2307/Unit-4-Internet-3) ] - Coil 라이브러리 / Binding Adapter / List Adapter
 
 ## Unit 5: Data persistence
 - Data persistence 1 - 관계형 DB / Database Inspector / Room / DAO / Flow
