@@ -33,9 +33,9 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Internet 3](https://velog.io/@emily2307/Unit-4-Internet-3) ] - Coil 라이브러리 / Binding Adapter / List Adapter
 
 ## Unit 5: Data persistence
-- Data persistence 1 - 관계형 DB / Database Inspector / Room / DAO / Flow
-- Data persistence 2 - Room / DAO / Database instance / Application class / ViewModel
-- Data persistence 3 - 확장 함수 / RecyclerView에 항목 추가, 삭제, 업데이트, 수정 실습
+- [x] [ [Data persistence 1](https://velog.io/@emily2307/Unit-5-Data-persistence) ] - 관계형 DB / Database Inspector / Room / DAO / Flow
+- [x] [ [Data persistence 2](https://velog.io/@emily2307/Unit-5-Data-persistence-2) ] - Room / DAO / Database instance / Application class / ViewModel
+- [x] [ [Data persistence 3](https://velog.io/@emily2307/Unit-5-Data-persistence-3) ] - 확장 함수 / RecyclerView에 항목 추가, 삭제, 업데이트, 수정 실습
 
 ## Unit 6: WorkManager
-- WorkManager 1 - WorkManager / WorkRequest / 작업 체이닝 / 고유 작업 체인 / 작업 상태 표시 / 작업 취소 / 제약 조건
+- [x] [ [WorkManager 1](https://velog.io/@emily2307/Unit-6-WorkManager-1) ] - WorkManager / WorkRequest / 작업 체이닝 / 고유 작업 체인 / 작업 상태 표시 / 작업 취소 / 제약 조건
