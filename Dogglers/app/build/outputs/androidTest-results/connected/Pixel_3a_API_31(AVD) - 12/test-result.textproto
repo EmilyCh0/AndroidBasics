@@ -1,0 +1,224 @@
+# 2022-07-04T06:48:54.133Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1656917330
+      nanos: 23000000
+    }
+    end_time {
+      seconds: 1656917330
+      nanos: 810000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_last_position"
+    start_time {
+      seconds: 1656917330
+      nanos: 820000000
+    }
+    end_time {
+      seconds: 1656917331
+      nanos: 473000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scrolling"
+    start_time {
+      seconds: 1656917331
+      nanos: 473000000
+    }
+    end_time {
+      seconds: 1656917331
+      nanos: 946000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_first_position"
+    start_time {
+      seconds: 1656917332
+      nanos: 349000000
+    }
+    end_time {
+      seconds: 1656917333
+      nanos: 79000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/emilycho/Github/AndroidBasicsinKotlin/Dogglers/app/build/outputs/androidTest-results/connected/Pixel_3a_API_31(AVD) - 12/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
