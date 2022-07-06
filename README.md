@@ -21,7 +21,7 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 
 ## Unit 3: Navigation
 - [x] [ [Navigation 1](https://velog.io/@emily2307/Unit-3-Navigation-1) ] - Set / Map / Lambda와 고차함수
-- [x] [ [Navigation 2](https://velog.io/@emily2307/Unit-3-Navigation-2) ] - "Words App" / Implicit Intent / Explicit Intent / LayoutManager 전환 / 앱 바
+- [x] [ [Navigation 2](https://velog.io/@emily2307/Unit-3-Navigation-2) ] - "[Words App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/MyWords)" / Implicit Intent / Explicit Intent / LayoutManager 전환 / 앱 바
 - [x] [ [Navigation 3](https://velog.io/@emily2307/Unit3-Navigation-3) ] - Fragment lifecycle / Fragment 뷰바인딩, Menu, arguments
 - [x] [ [Navigation 4](https://velog.io/@emily2307/Unit-3-Navigation-4) ] - NavGraph / Navigation / FragmentContainerView / 앱 바 label / Navigation pieces
 - [x] [ [Navigation 5](https://velog.io/@emily2307/Unit3-Navigation-5) ] - "Unscamble App" / 앱 아키텍처 / ViewModel / Backing property / ViewModel lifecycle / MaterialAlertDialog
