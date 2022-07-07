@@ -109,6 +109,18 @@
                 tools:text="Subtotal $5.00" />
 
             <Button
+                android:id="@+id/cancel_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel"
+                android:layout_marginEnd="@dimen/side_margin"
+                app:layout_constraintEnd_toStartOf="@id/next_button"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/next_button"
+                android:onClick="@{() -> flavorFragment.cancelOrder()}"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
+
+            <Button
                 android:id="@+id/next_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -117,7 +129,7 @@
                 android:onClick="@{() -> flavorFragment.goToNextScreen()}"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/cancel_button"
                 app:layout_constraintTop_toBottomOf="@id/subtotal" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
