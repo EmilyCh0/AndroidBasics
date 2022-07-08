@@ -61,7 +61,7 @@ dependencies {
     implementation 'androidx.navigation:navigation-fragment-ktx:2.3.5'
     implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
     implementation 'androidx.leanback:leanback:1.0.0'
-    implementation "androidx.slidingpanelayout:slidingpanelayout:1.2.0-beta01"
+    implementation "androidx.slidingpanelayout:slidingpanelayout:1.2.0"
     // Coil
     implementation "io.coil-kt:coil:1.1.1"
 
