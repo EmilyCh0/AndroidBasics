@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Test results - Class com.example.lunchtray.OrderFunctionalityTests</title>
+<link href="css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script src="js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class com.example.lunchtray.OrderFunctionalityTests</h1>
+<div class="breadcrumbs">
+<a href="index.html">all</a> &gt; 
+<a href="com.example.lunchtray.html">com.example.lunchtray</a> &gt; OrderFunctionalityTests</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">10</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">2</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">18.313s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">80%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<div class="test">
+<a name="radio_buttons_update_accompaniment_menu_subtotal"></a>
+<h3 class="failures">radio_buttons_update_accompaniment_menu_subtotal</h3>
+<span class="code">
+<pre>androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $0.50&quot;' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $0.50&quot;
+Got: view.getText() was &quot;Subtotal: $0.00&quot;
+View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d7bd697, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_accompaniment_menu_subtotal(OrderFunctionalityTests.kt:116)
+... 27 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $0.50&quot;' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $0.50&quot;
+Got: view.getText() was &quot;Subtotal: $0.00&quot;
+View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d7bd697, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at android.os.Handler.handleCallback(Handler.java:938)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:201)
+at android.os.Looper.loop(Looper.java:288)
+at android.app.ActivityThread.main(ActivityThread.java:7839)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
+</span>
+</div>
+<div class="test">
+<a name="radio_buttons_update_entree_menu_subtotal"></a>
+<h3 class="failures">radio_buttons_update_entree_menu_subtotal</h3>
+<span class="code">
+<pre>androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $7.00&quot;' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $7.00&quot;
+Got: view.getText() was &quot;Subtotal: $0.00&quot;
+View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@3f8c907, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_entree_menu_subtotal(OrderFunctionalityTests.kt:52)
+... 27 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $7.00&quot;' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing &quot;Subtotal: $7.00&quot;
+Got: view.getText() was &quot;Subtotal: $0.00&quot;
+View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@3f8c907, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at android.os.Handler.handleCallback(Handler.java:938)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:201)
+at android.os.Looper.loop(Looper.java:288)
+at android.app.ActivityThread.main(ActivityThread.java:7839)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
+</span>
+</div>
+</div>
+<div id="tab1" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Pixel_3a_API_31(AVD) - 12</th>
+</tr>
+</thead>
+<tr>
+<td>order_reset_after_cancel_from_accompaniment_menu</td>
+<td class="success">passed (2.622s)</td>
+</tr>
+<tr>
+<td>order_reset_after_cancel_from_checkout</td>
+<td class="success">passed (2.883s)</td>
+</tr>
+<tr>
+<td>order_reset_after_cancel_from_entree_menu</td>
+<td class="success">passed (1.288s)</td>
+</tr>
+<tr>
+<td>order_reset_after_cancel_from_side_menu</td>
+<td class="success">passed (1.924s)</td>
+</tr>
+<tr>
+<td>order_snackbar</td>
+<td class="success">passed (2.543s)</td>
+</tr>
+<tr>
+<td>radio_buttons_update_accompaniment_menu_subtotal</td>
+<td class="failures">failed (0.485s)</td>
+</tr>
+<tr>
+<td>radio_buttons_update_entree_menu_subtotal</td>
+<td class="failures">failed (0.471s)</td>
+</tr>
+<tr>
+<td>radio_buttons_update_side_menu_subtotal</td>
+<td class="success">passed (1.596s)</td>
+</tr>
+<tr>
+<td>subtotal_tax_total_in_checkout</td>
+<td class="success">passed (2.249s)</td>
+</tr>
+<tr>
+<td>subtotal_updates_in_full_order_flow</td>
+<td class="success">passed (2.252s)</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>Generated by 
+<a href="http://www.gradle.org">Gradle 7.4.2</a> at 2022. 7. 10. 오후 3:49:54</p>
+</div>
+</div>
+</body>

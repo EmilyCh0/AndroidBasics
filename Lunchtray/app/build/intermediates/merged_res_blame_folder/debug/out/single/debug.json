@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_fragment_entree_menu.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/fragment_entree_menu.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-merged_res-47:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.lunchtray.app-main-49:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_fragment_start_order.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/fragment_start_order.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_fragment_side_menu.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/fragment_side_menu.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_fragment_accompaniment_menu.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/fragment_accompaniment_menu.xml"
+    },
+    {
+        "merged": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-merged_res-47:/layout_fragment_checkout.xml.flat",
+        "source": "/Users/emilycho/.gradle/daemon/7.4.2/com.example.lunchtray.app-main-49:/layout/fragment_checkout.xml"
+    }
+]

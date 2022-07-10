@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lunchtray.test" >
+4
+5    <uses-sdk
+5-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:5:15-41
+7        android:targetSdkVersion="32" />
+7-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:11:5-15:71
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:13:22-53
+13        android:label="Tests for com.example.lunchtray"
+13-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:15:22-69
+14        android:targetPackage="com.example.lunchtray" />
+14-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:12:22-67
+15
+16    <queries>
+16-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+17        <package android:name="androidx.test.orchestrator" />
+17-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+17-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+18        <package android:name="androidx.test.services" />
+18-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+18-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+19        <package android:name="com.google.android.apps.common.testing.services" />
+19-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+19-->[androidx.test:runner:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/c955b8772f6f742b9b7732a74ffedf04/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80
+20    </queries>
+21
+22    <application android:debuggable="true" >
+22-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:7:5-9:19
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:8:9-60
+23-->/Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest17389015235033150763.xml:8:23-57
+24    </application>
+25
+26</manifest>

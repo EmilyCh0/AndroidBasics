@@ -1,0 +1,385 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/facaea410ab483d0d0f94eda06b9d2b2/transformed/databinding-adapters-7.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/39b494fc0cb01d5b61f543ebc373692e/transformed/databinding-ktx-7.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5e646267dbd440d4ff570dd134b09d18/transformed/databinding-runtime-7.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5701522d150fe458a1cdc45189e0fe30/transformed/viewbinding-7.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/a5643e74d408b5197ad7fef8fb3ca195/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/b326eb29e12d2b07c56d16b0f69f1e68/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/05d1f83422c22e8f9ab29fbe40015827/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f9352b58c6f0d338a65dcd8200b5d267/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/929f3c15c598377025d54db541b0cb3b/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/04b63f764262092857a45c8274667285/transformed/navigation-ui-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/abdbdbe5c4eb5d166c26a86515189979/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/emilycho/.gradle/caches/transforms-3/640b1662221adb3dc634e78f0a174f17/transformed/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/0b327e26425360847852c6c16b70bf08/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f6d78bec362b33e50662f51792d1ad7a/transformed/navigation-common-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/8606090d13913e7c27ffceeea6336643/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/emilycho/.gradle/caches/transforms-3/98d161f61c597cd5a98c8cc022c76036/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/8f0bececa80b931f7557cd5bc0784794/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/e7a0ce5f9a4a83e81f44495a9d44642c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/emilycho/.gradle/caches/transforms-3/fb5b5ec5833235dcabb048b9df33c103/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3cc082c7ff1248b4b3d56d711f242d82/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] /Users/emilycho/.gradle/caches/transforms-3/47d6306da4cd6c3a37483cf80348dc77/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/emilycho/.gradle/caches/transforms-3/a7a5a2928c9c1535c4239ae379d0f955/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/fe5308d28cd5e556320ecd3dc6b2c140/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/b02bb41ab7636545d6a75a925145ae70/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/74e114cc7a24b62801037af7c092a633/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/6e1f546703f64e35933bec035bf8e47b/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/emilycho/.gradle/caches/transforms-3/eb6186b412d2407e9613783d18c850c3/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/b404c8bf62f7182791f40065c161df68/transformed/lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/8ae0491a23753689c3b3421d566ac9e3/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/06d662782af5d9f77509668e23b12097/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f47716e42fa9cbbba7bb389115b329ea/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/43251a124278816dc2e9ea90ecad9a13/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/910691266f085c42defd5eefbce9ff8d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/3162687e9867d6233b999a0d0fc6bb10/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/66f17c4e22691bdd9cfbfc0ecf3a2365/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5a732685517534718ab7c0dc3ba12210/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/e30ecb1c883113f7827618edc7c3562f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/502cd9add9913f581118392c221daf5b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d3b33c2b773849fe634a92c5a6d603ba/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/385e0ff59c331638ce3a448af31d31a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f0012b7df0a8ae6b3af71f8446b05bdd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/1ba662db9ffc59041cb4becaa72b3a9d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/a690adcb53b0b070c00ce9a3024478ba/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/2df20965edc24b231dd4b0d5412411ca/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/45a69937270adcc16d3b6f3b27623468/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5b9bcc66152dd5c7f1190a13766b610e/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/0ba430e38e0a883050c3982e6d373805/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0545f709c0f30e31918a43d8ceab48c8/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/3e295c2f7d9b106c1cc0dc680b3b642b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/d8c0fd0dc1723c1b1068eaf4bc6033c6/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0df1e8b17d01965ebbf859e260bbbe49/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/33f6d87845e5280782d8e4a379f58f7e/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3a5776db206d9683b101146a387bbecd/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/emilycho/.gradle/caches/transforms-3/b60202ed0b2e393056c44100ae573d37/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/8ffaf7c3e373b370f4122bdb5de06078/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilycho/.gradle/caches/transforms-3/a89d4d059259a1b63bf77db303335f9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/223212b4b1426b7e60f6c97f9aa36090/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/0329fce0b76445647f8593a26c21f6bc/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/ceae62a0cf7826c0248fac97648c51e2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/84309fef535cb3c99d80aa2a68dbcfa0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d6c40aecfea0b6563b537cd2151791d2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/7f4b2fd86aa77ef8e4fbae587838162e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/885b98a958a858da5a18a7f72ef1a8fa/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:18:5-36
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:20:5-37:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.0] /Users/emilycho/.gradle/caches/transforms-3/47d6306da4cd6c3a37483cf80348dc77/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /Users/emilycho/.gradle/caches/transforms-3/47d6306da4cd6c3a37483cf80348dc77/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/emilycho/.gradle/caches/transforms-3/a7a5a2928c9c1535c4239ae379d0f955/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/emilycho/.gradle/caches/transforms-3/a7a5a2928c9c1535c4239ae379d0f955/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/223212b4b1426b7e60f6c97f9aa36090/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/223212b4b1426b7e60f6c97f9aa36090/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:26:9-47
+activity#com.example.lunchtray.MainActivity
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:29:13-45
+	android:exported
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/facaea410ab483d0d0f94eda06b9d2b2/transformed/databinding-adapters-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/facaea410ab483d0d0f94eda06b9d2b2/transformed/databinding-adapters-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/39b494fc0cb01d5b61f543ebc373692e/transformed/databinding-ktx-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/39b494fc0cb01d5b61f543ebc373692e/transformed/databinding-ktx-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5e646267dbd440d4ff570dd134b09d18/transformed/databinding-runtime-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5e646267dbd440d4ff570dd134b09d18/transformed/databinding-runtime-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5701522d150fe458a1cdc45189e0fe30/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/emilycho/.gradle/caches/transforms-3/5701522d150fe458a1cdc45189e0fe30/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/a5643e74d408b5197ad7fef8fb3ca195/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/a5643e74d408b5197ad7fef8fb3ca195/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/b326eb29e12d2b07c56d16b0f69f1e68/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/b326eb29e12d2b07c56d16b0f69f1e68/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/05d1f83422c22e8f9ab29fbe40015827/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/05d1f83422c22e8f9ab29fbe40015827/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f9352b58c6f0d338a65dcd8200b5d267/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f9352b58c6f0d338a65dcd8200b5d267/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/929f3c15c598377025d54db541b0cb3b/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/929f3c15c598377025d54db541b0cb3b/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/04b63f764262092857a45c8274667285/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/04b63f764262092857a45c8274667285/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/abdbdbe5c4eb5d166c26a86515189979/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/abdbdbe5c4eb5d166c26a86515189979/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/emilycho/.gradle/caches/transforms-3/640b1662221adb3dc634e78f0a174f17/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/emilycho/.gradle/caches/transforms-3/640b1662221adb3dc634e78f0a174f17/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/0b327e26425360847852c6c16b70bf08/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/0b327e26425360847852c6c16b70bf08/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f6d78bec362b33e50662f51792d1ad7a/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/emilycho/.gradle/caches/transforms-3/f6d78bec362b33e50662f51792d1ad7a/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/8606090d13913e7c27ffceeea6336643/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/8606090d13913e7c27ffceeea6336643/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/emilycho/.gradle/caches/transforms-3/98d161f61c597cd5a98c8cc022c76036/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/emilycho/.gradle/caches/transforms-3/98d161f61c597cd5a98c8cc022c76036/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/8f0bececa80b931f7557cd5bc0784794/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/8f0bececa80b931f7557cd5bc0784794/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/e7a0ce5f9a4a83e81f44495a9d44642c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/e7a0ce5f9a4a83e81f44495a9d44642c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/emilycho/.gradle/caches/transforms-3/fb5b5ec5833235dcabb048b9df33c103/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/emilycho/.gradle/caches/transforms-3/fb5b5ec5833235dcabb048b9df33c103/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3cc082c7ff1248b4b3d56d711f242d82/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3cc082c7ff1248b4b3d56d711f242d82/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/emilycho/.gradle/caches/transforms-3/47d6306da4cd6c3a37483cf80348dc77/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/emilycho/.gradle/caches/transforms-3/47d6306da4cd6c3a37483cf80348dc77/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/emilycho/.gradle/caches/transforms-3/a7a5a2928c9c1535c4239ae379d0f955/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/emilycho/.gradle/caches/transforms-3/a7a5a2928c9c1535c4239ae379d0f955/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/fe5308d28cd5e556320ecd3dc6b2c140/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/fe5308d28cd5e556320ecd3dc6b2c140/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/b02bb41ab7636545d6a75a925145ae70/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/b02bb41ab7636545d6a75a925145ae70/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/74e114cc7a24b62801037af7c092a633/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/74e114cc7a24b62801037af7c092a633/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/6e1f546703f64e35933bec035bf8e47b/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/6e1f546703f64e35933bec035bf8e47b/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/emilycho/.gradle/caches/transforms-3/eb6186b412d2407e9613783d18c850c3/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/emilycho/.gradle/caches/transforms-3/eb6186b412d2407e9613783d18c850c3/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/b404c8bf62f7182791f40065c161df68/transformed/lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/b404c8bf62f7182791f40065c161df68/transformed/lifecycle-viewmodel-savedstate-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/8ae0491a23753689c3b3421d566ac9e3/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/8ae0491a23753689c3b3421d566ac9e3/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/06d662782af5d9f77509668e23b12097/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/06d662782af5d9f77509668e23b12097/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f47716e42fa9cbbba7bb389115b329ea/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f47716e42fa9cbbba7bb389115b329ea/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/43251a124278816dc2e9ea90ecad9a13/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/43251a124278816dc2e9ea90ecad9a13/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/910691266f085c42defd5eefbce9ff8d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/910691266f085c42defd5eefbce9ff8d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/3162687e9867d6233b999a0d0fc6bb10/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/3162687e9867d6233b999a0d0fc6bb10/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/66f17c4e22691bdd9cfbfc0ecf3a2365/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/66f17c4e22691bdd9cfbfc0ecf3a2365/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5a732685517534718ab7c0dc3ba12210/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5a732685517534718ab7c0dc3ba12210/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/e30ecb1c883113f7827618edc7c3562f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/e30ecb1c883113f7827618edc7c3562f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/502cd9add9913f581118392c221daf5b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/502cd9add9913f581118392c221daf5b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d3b33c2b773849fe634a92c5a6d603ba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d3b33c2b773849fe634a92c5a6d603ba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/385e0ff59c331638ce3a448af31d31a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/385e0ff59c331638ce3a448af31d31a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f0012b7df0a8ae6b3af71f8446b05bdd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/f0012b7df0a8ae6b3af71f8446b05bdd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/1ba662db9ffc59041cb4becaa72b3a9d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/1ba662db9ffc59041cb4becaa72b3a9d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/a690adcb53b0b070c00ce9a3024478ba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/a690adcb53b0b070c00ce9a3024478ba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/2df20965edc24b231dd4b0d5412411ca/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/2df20965edc24b231dd4b0d5412411ca/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/emilycho/.gradle/caches/transforms-3/185e2f0c619288e0f8d4f5786a951195/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/45a69937270adcc16d3b6f3b27623468/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/45a69937270adcc16d3b6f3b27623468/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5b9bcc66152dd5c7f1190a13766b610e/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/5b9bcc66152dd5c7f1190a13766b610e/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/0ba430e38e0a883050c3982e6d373805/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/0ba430e38e0a883050c3982e6d373805/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0545f709c0f30e31918a43d8ceab48c8/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0545f709c0f30e31918a43d8ceab48c8/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/3e295c2f7d9b106c1cc0dc680b3b642b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/3e295c2f7d9b106c1cc0dc680b3b642b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/d8c0fd0dc1723c1b1068eaf4bc6033c6/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/d8c0fd0dc1723c1b1068eaf4bc6033c6/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0df1e8b17d01965ebbf859e260bbbe49/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/0df1e8b17d01965ebbf859e260bbbe49/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/33f6d87845e5280782d8e4a379f58f7e/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/33f6d87845e5280782d8e4a379f58f7e/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3a5776db206d9683b101146a387bbecd/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/emilycho/.gradle/caches/transforms-3/3a5776db206d9683b101146a387bbecd/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/emilycho/.gradle/caches/transforms-3/b60202ed0b2e393056c44100ae573d37/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/emilycho/.gradle/caches/transforms-3/b60202ed0b2e393056c44100ae573d37/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/8ffaf7c3e373b370f4122bdb5de06078/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/8ffaf7c3e373b370f4122bdb5de06078/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilycho/.gradle/caches/transforms-3/a89d4d059259a1b63bf77db303335f9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilycho/.gradle/caches/transforms-3/a89d4d059259a1b63bf77db303335f9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/223212b4b1426b7e60f6c97f9aa36090/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilycho/.gradle/caches/transforms-3/223212b4b1426b7e60f6c97f9aa36090/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/0329fce0b76445647f8593a26c21f6bc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/0329fce0b76445647f8593a26c21f6bc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/ceae62a0cf7826c0248fac97648c51e2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/ceae62a0cf7826c0248fac97648c51e2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/84309fef535cb3c99d80aa2a68dbcfa0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/84309fef535cb3c99d80aa2a68dbcfa0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d6c40aecfea0b6563b537cd2151791d2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/d6c40aecfea0b6563b537cd2151791d2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/7f4b2fd86aa77ef8e4fbae587838162e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/7f4b2fd86aa77ef8e4fbae587838162e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/885b98a958a858da5a18a7f72ef1a8fa/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilycho/.gradle/caches/transforms-3/885b98a958a858da5a18a7f72ef1a8fa/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emilycho/Github/AndroidBasicsinKotlin/LunchTray/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /Users/emilycho/.gradle/caches/transforms-3/a0f0544b9fbbca97f77b59ad84711809/transformed/fragment-testing-1.4.1/AndroidManifest.xml:34:13-36:29
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/5437d7f960dab5aae06761b901b3820b/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/emilycho/.gradle/caches/transforms-3/6246636e5b4dcd0419276e751794f9c6/transformed/core-1.4.0/AndroidManifest.xml:44:13-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/a74faf1e49e399dc447c50e1c68fca81/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/emilycho/.gradle/caches/transforms-3/fe304109ea3e8442a607f09201bb314f/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/emilycho/.gradle/caches/transforms-3/08495faad6319bca2a5cbf06e944b05b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
