@@ -26,6 +26,9 @@
             type="com.example.lunchtray.model.OrderViewModel" />
 
         <!-- TODO: Add the data binding variable for the EntreeMenuFragment -->
+        <variable
+            name="entryMenuFragment"
+            type="com.example.lunchtray.ui.order.EntreeMenuFragment" />
     </data>
 
 
@@ -55,6 +58,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["cauliflower"].name}'
+                    android:onClick="@{() -> viewModel.setEntree(`cauliflower`)}"
                     tools:text="Entree 1" />
 
                 <TextView
@@ -85,6 +89,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["chili"].name}'
+                    android:onClick="@{() -> viewModel.setEntree(`chili`)}"
                     tools:text="Entree 2" />
 
                 <TextView
@@ -115,6 +120,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["pasta"].name}'
+                    android:onClick="@{() -> viewModel.setEntree(`pasta`)}"
                     tools:text="Entree 3" />
 
                 <TextView
@@ -145,6 +151,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["skillet"].name}'
+                    android:onClick="@{() -> viewModel.setEntree(`skillet`)}"
                     tools:text="Entree 4" />
 
                 <TextView
@@ -178,6 +185,7 @@
                 style="@style/Widget.LunchTray.TextView.Subtotal"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/divider"
+                android:text="@{@string/subtotal(String.valueOf(viewModel.subtotal))}"
                 tools:text="Subtotal $5.00"/>
 
             <!-- TODO: cancel the order when clicked -->
