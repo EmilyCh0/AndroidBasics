@@ -27,10 +27,11 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Navigation 5](https://velog.io/@emily2307/Unit3-Navigation-5) ] - "[Unscramble App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Unscramble)" / 앱 아키텍처 / ViewModel / Backing property / ViewModel lifecycle / MaterialAlertDialog
 - [x] [ [Navigation 6](https://velog.io/@emily2307/Unit-3-Navigation-6) ] - LiveData / Data binding / 결합 표현식
 - [x] [ [Navigation 7](https://velog.io/@emily2307/Unit-3-Navigation-7) ] - "[Cupcake App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Cupcake)" / 공유 ViewModel / LiveData & LifecycleOwner / Back Stack / Pop behavior
+- [x] [ [Project 정리](https://velog.io/@emily2307/Lunch-Time) ] - "[Lunch Tray App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Lunchtray)"
 
 ## Unit 4: Connect to the Internet
 - [x] [ [Internet 1](https://velog.io/@emily2307/Unit-4-Connect-to-the-internet-1) ] - 멀티스레딩 / Coroutine
-- [x] [ [Internet 2](https://velog.io/@emily2307/Unit-4-Internet-2) ] - "Mars Photos App" / Retrofit / viewModelScope / Moshi 라이브러리
+- [x] [ [Internet 2](https://velog.io/@emily2307/Unit-4-Internet-2) ] - "[Mars Photos App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/MarsPhotos/app)" / Retrofit / viewModelScope / Moshi 라이브러리
 - [x] [ [Internet 3](https://velog.io/@emily2307/Unit-4-Internet-3) ] - Coil 라이브러리 / Binding Adapter / List Adapter
 
 ## Unit 5: Data persistence
