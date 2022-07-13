@@ -33,6 +33,7 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Internet 1](https://velog.io/@emily2307/Unit-4-Connect-to-the-internet-1) ] - 멀티스레딩 / Coroutine
 - [x] [ [Internet 2](https://velog.io/@emily2307/Unit-4-Internet-2) ] - "[Mars Photos App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/MarsPhotos/app)" / Retrofit / viewModelScope / Moshi 라이브러리
 - [x] [ [Internet 3](https://velog.io/@emily2307/Unit-4-Internet-3) ] - Coil 라이브러리 / Binding Adapter / List Adapter
+- [x] [ [Project 정리](https://velog.io/@emily2307/Unit4-Project-Amphibians) ] - "[Amphibians App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Amphibians)"
 
 ## Unit 5: Data persistence
 - [x] [ [Data persistence 1](https://velog.io/@emily2307/Unit-5-Data-persistence) ] - 관계형 DB / Database Inspector / Room / DAO / Flow
