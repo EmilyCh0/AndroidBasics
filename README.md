@@ -27,6 +27,7 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Navigation 5](https://velog.io/@emily2307/Unit3-Navigation-5) ] - "[Unscramble App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Unscramble)" / 앱 아키텍처 / ViewModel / Backing property / ViewModel lifecycle / MaterialAlertDialog
 - [x] [ [Navigation 6](https://velog.io/@emily2307/Unit-3-Navigation-6) ] - LiveData / Data binding / 결합 표현식
 - [x] [ [Navigation 7](https://velog.io/@emily2307/Unit-3-Navigation-7) ] - "[Cupcake App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Cupcake)" / 공유 ViewModel / LiveData & LifecycleOwner / Back Stack / Pop behavior
+- [x] [ [Navigation 8](https://velog.io/@emily2307/Unit3-Navigation-8) ] - "[Sports App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Sports)" / 적응형 레이아웃 / SlidingPaneLayout
 - [x] [ [Project 정리](https://velog.io/@emily2307/Lunch-Time) ] - "[Lunch Tray App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Lunchtray)"
 
 ## Unit 4: Connect to the Internet
