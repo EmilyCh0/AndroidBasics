@@ -40,6 +40,8 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 - [x] [ [Data persistence 1](https://velog.io/@emily2307/Unit-5-Data-persistence) ] - "[Bus Scheduler App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/BusSchedule)" / 관계형 DB / Database Inspector / Room / DAO / Flow
 - [x] [ [Data persistence 2](https://velog.io/@emily2307/Unit-5-Data-persistence-2) ] - Room / DAO / Database instance / Application class / ViewModel
 - [x] [ [Data persistence 3](https://velog.io/@emily2307/Unit-5-Data-persistence-3) ] - "[Inventory App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Inventory)" / 확장 함수 / RecyclerView에 항목 추가, 삭제, 업데이트, 수정 실습
+- [x] [ [Data persistence 4](https://velog.io/@emily2307/Unit-5-Data-Persistence-4) ] - "[Words App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/MyWords)" / DataStore
+- [x] [ Project ] - "[Forage App](https://github.com/EmilyCh0/AndroidBasicsinKotlin/tree/main/Forage)"
 
 ## Unit 6: WorkManager
 - [x] [ [WorkManager 1](https://velog.io/@emily2307/Unit-6-WorkManager-1) ] - WorkManager / WorkRequest / 작업 체이닝 / 고유 작업 체인 / 작업 상태 표시 / 작업 취소 / 제약 조건
