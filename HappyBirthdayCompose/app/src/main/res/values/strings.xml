@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday Compose</string>
+    <string name="happy_birthday_text">Happy Birthday Android</string>
+    <string name="from_emma">- from Emma</string>
+</resources>
