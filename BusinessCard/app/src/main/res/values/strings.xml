@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Jennifer Doe</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+</resources>
