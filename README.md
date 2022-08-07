@@ -45,3 +45,21 @@ Google developers에서 제공하는 \<[Android Basics in Kotlin](https://develo
 
 ## Unit 6: WorkManager
 - [x] [ [WorkManager 1](https://velog.io/@emily2307/Unit-6-WorkManager-1) ] - WorkManager / WorkRequest / 작업 체이닝 / 고유 작업 체인 / 작업 상태 표시 / 작업 취소 / 제약 조건
+
+---
+
+# Android Basics with Compose
+
+Google developers에서 제공하는 \<[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)\> 강의 기반
+
+## Unit 1: Your first Android app
+- [x] [ [Happy Birthday App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/HappyBirthdayCompose) ]
+- [x] [ [Business Card App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/BusinessCard) ]
+
+## Unit 2: Building app UI
+- [x] [ [Dice Roller App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/DiceRollerCompose) ]
+- [x] [ [Lemonade App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/LemonadewithCompose) ]
+- [x] [ [Tip Time App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/TipTimewithCompose) ]
+- [x] [ [Art Space App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/ArtSpace) ]
+
+## Unit 3: Display lists and use Material Design
