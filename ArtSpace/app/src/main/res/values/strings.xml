@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_title_1">Mona Lisa</string>
+    <string name="art_title_2">Girl with a Pearl Earring</string>
+    <string name="art_title_3">The Starry Night</string>
+    <string name="art_title_4">The Kiss</string>
+    <string name="art_title_5">The Birth of Venus</string>
+    <string name="art_title_6">Arrangement in Grey and Black</string>
+    <string name="artist1">Leonardo Da Vinci</string>
+    <string name="artist2">Johannes Vermeer</string>
+    <string name="artist3">Vincent van Gogh</string>
+    <string name="artist4">Gustav Klimt</string>
+    <string name="artist5">Sandro Botticelli</string>
+    <string name="artist6">James Abbott McNeill Whistler</string>
+
+</resources>
