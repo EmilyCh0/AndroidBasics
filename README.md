@@ -63,3 +63,5 @@ Google developers에서 제공하는 \<[Android Basics with Compose](https://dev
 - [x] [ [Art Space App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/ArtSpace) ]
 
 ## Unit 3: Display lists and use Material Design
+- [x] [ [Affirmation App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/AffirmationswithCompose) ]
+- [x] [ [Courses App ](https://github.com/EmilyCh0/AndroidBasics/tree/main/Courses) ]
